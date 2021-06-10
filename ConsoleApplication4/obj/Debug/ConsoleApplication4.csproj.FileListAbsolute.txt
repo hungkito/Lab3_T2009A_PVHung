@@ -1,0 +1,10 @@
+C:\Users\Admin\RiderProjects\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+C:\Users\Admin\RiderProjects\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+C:\Users\Admin\RiderProjects\ConsoleApplication4\ConsoleApplication4\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Admin\RiderProjects\ConsoleApplication4\ConsoleApplication4\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Admin\RiderProjects\ConsoleApplication4\ConsoleApplication4\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Admin\RiderProjects\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.csprojAssemblyReference.cache
+C:\Users\Admin\RiderProjects\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.csproj.CopyComplete
+C:\Users\Admin\RiderProjects\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+C:\Users\Admin\RiderProjects\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
